@@ -7,6 +7,7 @@ const app = express();
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json({extended: true}));
+app.use(allowCrossDomain);
 
 app.use(routes);
 
