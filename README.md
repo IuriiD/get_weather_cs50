@@ -1,0 +1,1 @@
+This is a simple node.js server created for getting and parsing weather data from http://api.openweathermap.org/, used in my homework on the Week8 task https://cs50.harvard.edu/x/2020/tracks/web/homepage/ in the CS50 course (https://cs50.harvard.edu/x/2020/).
